@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Hei.Apollo", "WebApi.Hei.Apollo\WebApi.Hei.Apollo.csproj", "{708EAFB3-A599-46E2-B9E3-AE2BA2C36D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708EAFB3-A599-46E2-B9E3-AE2BA2C36D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708EAFB3-A599-46E2-B9E3-AE2BA2C36D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708EAFB3-A599-46E2-B9E3-AE2BA2C36D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708EAFB3-A599-46E2-B9E3-AE2BA2C36D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34A84A0E-7401-4B25-9344-573AB42D1A54}
+	EndGlobalSection
+EndGlobal
